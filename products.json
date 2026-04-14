@@ -1,10 +1,5 @@
 [
     {
-        "name": "Iphone 15",
-        "price": 8500,
-        "id": 1
-    },
-    {
         "name": "Iphone 16",
         "price": 75000,
         "quantity": 21,
